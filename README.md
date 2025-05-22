@@ -1,11 +1,28 @@
-## Olá, eu sou Guilherme Santiago
+<div align="center">
+  <img height="" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExangxMDRmNWc1djk2ZzdrZnRjb2puM3NtcnFxenc0bnFidzh0cm14NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdfjsG4sLrTBlJ2FWk/giphy.gif"  />
+</div>
+
+
+<h1 align="center">Olá, eu sou Guilherme Santiago 👋</h1>
+
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🖥️ Atualmente, estou aprimorando minhas habilidades em programação, especialmente no desenvolvimento de sistemas backend.
-- 📊 Também sou fascinado por análise de dados e estou sempre aprendendo novas técnicas para extrair insights valiosos.
-- 🌱 No momento, estou aprofundando meus conhecimentos em Python, SQL e ferramentas de visualização de dados.
-- 🤝 Estou aberto a colaborações e adoro trabalhar em equipe para resolver problemas complexos.
-  
-![Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiagoguii&show_icons=true&theme=dracula)
+- 🖥️ Atualmente, estou focado no desenvolvimento backend com C# e .NET, criando aplicações robustas e escaláveis.
+- 🛠️ Tenho interesse em engenharia de dados, trabalhando com bancos de dados SQL e NoSQL para estruturar, armazenar e otimizar o acesso a grandes volumes de dados.
+- 🌱 Estou sempre evoluindo como desenvolvedor, estudando boas práticas, arquitetura de software e novas tecnologias.
+- 🤝 Gosto de colaborar em equipe, compartilhar conhecimento e enfrentar problemas complexos com soluções eficientes.
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santiagoguii/Santiagoguii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santiagoguii/Santiagoguii/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Santiagoguii/Santaigoguii4/output/github-contribution-grid-snake.svg">  
+</picture>  
+
+###
+
+<img src= "https://github-readme-stats.vercel.app/api?username=Santiagoguii&show_icons=true&theme=dracula" height="150" alt="languages graph"/>
+</div>
+
 ## Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-santiago-ti/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=guilhermepsantiago04@gmail.com)

@@ -1,9 +1,9 @@
+<h1 align="center">Olá, eu sou Guilherme Santiago 👋</h1>
+
 <div align="center">
   <img height="" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExangxMDRmNWc1djk2ZzdrZnRjb2puM3NtcnFxenc0bnFidzh0cm14NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdfjsG4sLrTBlJ2FWk/giphy.gif"  />
 </div>
 
-
-<h1 align="center">Olá, eu sou Guilherme Santiago 👋</h1>
 
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 🖥️ Atualmente, estou focado no desenvolvimento backend com C# e .NET, criando aplicações robustas e escaláveis.

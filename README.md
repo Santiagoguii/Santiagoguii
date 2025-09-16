@@ -1,11 +1,12 @@
-<h1 align="center">Olá, eu sou Guilherme Santiago 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Santiago+%F0%9F%91%8B;Back-end+Developer+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+___
 
 <div align="center">
   <img height="" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExangxMDRmNWc1djk2ZzdrZnRjb2puM3NtcnFxenc0bnFidzh0cm14NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdfjsG4sLrTBlJ2FWk/giphy.gif"  />
-</div>
+</div>  
+<br>
 
-
-- 🧑🏾‍💻 Desenvolvedor Back-end
 - 🖥️ Atualmente, estou focado no desenvolvimento backend com C# e .NET, criando aplicações robustas e escaláveis.
 - 🛠️ Tenho interesse em engenharia de dados e Cloud Computing.
 - 🌱 Estou sempre evoluindo como desenvolvedor, estudando boas práticas, arquitetura de software e novas tecnologias.

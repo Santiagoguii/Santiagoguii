@@ -5,9 +5,9 @@
 </div>
 
 
-- 🧑🏾‍💻Desenvolvedor Back-end
+- 🧑🏾‍💻 Desenvolvedor Back-end
 - 🖥️ Atualmente, estou focado no desenvolvimento backend com C# e .NET, criando aplicações robustas e escaláveis.
-- 🛠️ Tenho interesse em engenharia de dados e Cloud.
+- 🛠️ Tenho interesse em engenharia de dados e Cloud Computing.
 - 🌱 Estou sempre evoluindo como desenvolvedor, estudando boas práticas, arquitetura de software e novas tecnologias.
 - 🤝 Gosto de colaborar em equipe, compartilhar conhecimento e enfrentar problemas complexos com soluções eficientes.
 

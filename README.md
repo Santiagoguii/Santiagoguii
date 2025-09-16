@@ -5,9 +5,9 @@
 </div>
 
 
-- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 🧑🏾‍💻Desenvolvedor Back-end
 - 🖥️ Atualmente, estou focado no desenvolvimento backend com C# e .NET, criando aplicações robustas e escaláveis.
-- 🛠️ Tenho interesse em engenharia de dados, trabalhando com bancos de dados SQL e NoSQL para estruturar, armazenar e otimizar o acesso a grandes volumes de dados.
+- 🛠️ Tenho interesse em engenharia de dados e Cloud.
 - 🌱 Estou sempre evoluindo como desenvolvedor, estudando boas práticas, arquitetura de software e novas tecnologias.
 - 🤝 Gosto de colaborar em equipe, compartilhar conhecimento e enfrentar problemas complexos com soluções eficientes.
 
